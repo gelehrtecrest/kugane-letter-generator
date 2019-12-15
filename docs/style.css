@@ -1,0 +1,23 @@
+body {
+	padding-bottom: 20px;
+	background-color: white;
+}
+
+.canvas-stage {
+	background-color: gray;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+@font-face{
+	font-family:'Kugane';
+	src:url('https://gelehrtecrest.github.io/kugane-font/fonts/Kugane-Regular.woff') format('woff');
+}
+#result{
+	background-color: lightgray;
+	font-family:'Kugane';
+}
+
+#preview {
+	width: 100%;
+}
